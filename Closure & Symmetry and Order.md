@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=9YEFRiXZzV4&list=PLxyna19ze6YekJevJRT5NNC3YJsdG2
 
 
 ##Symmetry
+
+![Alt text](https://logoblink.com/wp-content/uploads/2011/01/famous-symmetrical-logos.jpg)
+
 Symmetry gives us a feeling of solidity and order, which we tend to seek. It’s our nature to impose order on chaos. This principle leads us to want balance in composition, though our compositions don’t need to be perfectly symmetrical to be in balance.Everyday experiences demonstrate that symmetry affects the visual perception of form. Dynamic symmetry enhances visual exploration; static symmetry restricts exploration.
 
 https://www.youtube.com/watch?v=dmzlHGyksas
