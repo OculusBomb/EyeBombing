@@ -1,5 +1,4 @@
 # Closure & Symmetry and Order
-=============
 
 ## Closure 
 > “When seeing a complex arrangement of elements, we tend to look for a single, recognizable pattern.”
