@@ -1,4 +1,4 @@
-# Closure & Symmetry and Order
+# Closure & Symmetry and Order :panda_face: :straight_ruler:
 
 ## Closure
 > “When seeing a complex arrangement of elements, we tend to look for a single, recognizable pattern.”
