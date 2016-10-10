@@ -24,7 +24,7 @@ Meet the team;
 
 1 | 2| 3
 ------------ | ------------- | -------------
-![Callum_1](/Emma_Images/14614290_10210588060158910_827053649_o.jpg)|![Callum_2](/Emma_Images/14646767_10210588060398916_1600069898_o.jpg)|![Callum_3](/Emma_Images/IMG_0180.jpg)
+![Emma_1](/Emma_Images/14614290_10210588060158910_827053649_o.jpg)|![Emma_2](/Emma_Images/14646767_10210588060398916_1600069898_o.jpg)|![Emma_3](/Emma_Images/IMG_0180.jpg)
 
 
 
