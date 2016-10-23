@@ -8,6 +8,10 @@ Meet the team;
 * [Callum](https://callumlovekin.carbonmade.com/)
 * [Emma](http://facebook.com/Emmaaa.xD)
 
+This project has helped us see every day objects in a different way, going around the local area and realising how many objects we can realte to the human face and seeing different human features.
+
+
+
 ##Mark's Top 3
 
 1 | 2| 3
