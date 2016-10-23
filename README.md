@@ -8,15 +8,7 @@ Meet the team;
 * [Callum](https://callumlovekin.carbonmade.com/)
 * [Emma](http://facebook.com/Emmaaa.xD)
 
-## This project has helped us see every day objects in a different way, going around the local area and realising how many objects we can relate to the human face and seeing different human features. We have learnt alot about the way we see and how we an incorprate that into our design thinking.
-
-
-
-##Mark's Top 3
-
-1 | 2| 3
------------- | ------------- | -------------
-![Mark_1](/Marks_Images/Screen Shot 2015-10-28 at 10.18.11.png)|![Mark_2](/Marks_Images/Screen Shot 2015-10-27 at 19.02.01.png)|![Mark_3](/Marks_Images/Screen Shot 2015-12-02 at 17.49.03.png)
+### This project has helped us see every day objects in a different way, going around the local area and realising how many objects we can relate to the human face and seeing different human features. We have learnt alot about the way we see and how we an incorprate that into our design thinking.
 
 ##Callum's Top 3
 
