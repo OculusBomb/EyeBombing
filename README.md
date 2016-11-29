@@ -9,11 +9,22 @@ Meet the team;
 
 ### This project has helped us see every day objects in a different way, going around the local area and realising how many objects we can relate to the human face and seeing different human features. We have learnt alot about the way we see and how we an incorprate that into our design thinking.
 
-##Callum's
+##Callum's Images
+
+Below are my favourite photos that I have taken for this project, I have taken them in a few places to mix up the kind of images I get and I think they came out really well! The images below consist of photos around:
+
+* North Greenwich area (1,5,6,7) 
+* My House (2,3,9,10)
+* My Workplace (4)
+* Kesington (8)
 
 1 | 2| 3| 4| 5
 ------------ | ------------- | -------------| ------------- | -------------
 ![e2](/Callum_Images/bike.jpg)|![e3](/Callum_Images/door.jpg)|![e4](/Callum_Images/egg.jpg)|![e5](/Callum_Images/scan.jpg)|![e6](/Callum_Images/pop.jpg)
+
+6 | 7| 8| 9| 10
+------------ | ------------- | -------------| ------------- | -------------
+![e6](/Callum_Images/smoke.jpg)|![e7](/Callum_Images/tree.jpg)|![e8](/Callum_Images/smoke2.jpg)|![e9](/Callum_Images/door3.jpg)|![e10](/Callum_Images/door2.jpg)
 
 ##Emma's Initial Images
 
