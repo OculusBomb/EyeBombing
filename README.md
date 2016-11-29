@@ -13,7 +13,7 @@ Meet the team;
 
 1 | 2| 3| 4| 5
 ------------ | ------------- | -------------| ------------- | -------------
-![e2](/Callum_Images/bike.jpg)|![e3](/Callum_Images/door.jpg)|![e4](/Callum_Images/egg)|![e5](/Callum_Images/scan.jpg)|![e6](/Callum_Images/pop.jpg)/IMG_0178.jpg)
+![e2](/Callum_Images/bike.jpg)|![e3](/Callum_Images/door.jpg)|![e4](/Callum_Images/egg)|![e5](/Callum_Images/scan.jpg)|![e6](/Callum_Images/pop.jpg)
 
 ##Emma's Initial Images
 
