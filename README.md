@@ -4,7 +4,6 @@ _Eye Bombing is a project about seeing faces in everyday objects and other thing
 ---
 Meet the team;
 <br>
-* [Mark](http://bewes.co.nf/)
 * [Callum](https://callumlovekin.carbonmade.com/)
 * [Emma](http://facebook.com/Emmaaa.xD)
 
@@ -16,12 +15,6 @@ Meet the team;
 ------------ | ------------- | -------------
 ![Callum_1](/Callum_Images/IMG_0177.jpg)|![Callum_2](/Callum_Images/IMG_0178.jpg)|![Callum_3](/Callum_Images/14657743_10207548317292737_653641905_n.jpg)
 
-##Emma's Top 3
-
-1 | 2| 3
------------- | ------------- | -------------
-
-
 ##Emma's Initial Images
 
 1 | 2| 3| 4| 5
@@ -32,7 +25,7 @@ Meet the team;
 ------------ | ------------- | -------------
 ![e7](https://cloud.githubusercontent.com/assets/22593770/20716434/1faca064-b64a-11e6-8289-19643c392404.jpg)|![e8](https://cloud.githubusercontent.com/assets/22593770/20716435/1facd2c8-b64a-11e6-9ce5-e6835c6884df.jpg)|![e9](https://cloud.githubusercontent.com/assets/22593770/20716436/1fbc4a28-b64a-11e6-800c-a1f1943af8c3.jpg)
 
-##Emma's Cropped\Altered Images
+##Emma's Cropped/Altered Images
 
 1 | 2| 3| 4| 5
 ------------ | ------------- | -------------| ------------- | -------------
@@ -41,3 +34,9 @@ Meet the team;
 1 | 2| 3| 4| 5
 ------------ | ------------- | -------------| ------------- | -------------
 ![crop5](https://cloud.githubusercontent.com/assets/22593770/20716627/c4a68d3c-b64a-11e6-89a0-ab6427c66b33.jpg)|![crop7](https://cloud.githubusercontent.com/assets/22593770/20716629/c4b679cc-b64a-11e6-9340-32e21da7ec19.jpg)|![e7](https://cloud.githubusercontent.com/assets/22593770/20716628/c4b5f128-b64a-11e6-881e-551fbdf339f9.jpg)|![e8](https://cloud.githubusercontent.com/assets/22593770/20716630/c4b95b38-b64a-11e6-8f0c-799c3bd5edf1.jpg)|![e9](https://cloud.githubusercontent.com/assets/22593770/20716631/c4baa146-b64a-11e6-9435-454fa31849f9.jpg)
+
+##Emma's Top 3
+
+1 | 2| 3
+------------ | ------------- | -------------
+![crop2](https://cloud.githubusercontent.com/assets/22593770/20716625/c4a56cc2-b64a-11e6-86c4-bf7ec47d8029.jpg)|![e8](https://cloud.githubusercontent.com/assets/22593770/20716630/c4b95b38-b64a-11e6-8f0c-799c3bd5edf1.jpg)|![e9](https://cloud.githubusercontent.com/assets/22593770/20716631/c4baa146-b64a-11e6-9435-454fa31849f9.jpg)
