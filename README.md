@@ -11,7 +11,9 @@ Meet the team;
 
 ##Callum's Images
 
-Below are my favourite photos that I have taken for this project, I have taken them in a few places to mix up the kind of images I get and I think they came out really well! The images below consist of photos around:
+Below are my favourite photos that I have taken for this project, I have taken them in a few places to mix up the kind of images I get and I think they came out really well! The project made me think about the surroundings that I look at on a day to day basis, going home or walking around London I was able to see face's in things I would not normally even look at. The images I took did not need any editing as I framed all my images well so there was no need for cropping ort rotating! 
+
+The images below consist of photos around:
 
 * North Greenwich area (1,5,6,7) 
 * My House (2,3,9,10)
